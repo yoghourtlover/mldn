@@ -11,7 +11,7 @@ namespace HardDriverPlatform
     public static class HardDriverPlatformConsle
     {
         /// <summary>
-        /// 身份证读卡工厂
+        ///asd
         /// </summary>
         private static IdCardFactory idCardFactory { get; } = new IdCardFactory();
 
